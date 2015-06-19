@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Change Activity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="sign_whom">Whom:</string>
+    <string name="sign_description">Description:</string>
+    <string name="hell_layout">WELCOM TO HELL</string>
+    <string name="title_activity_second">Second Activity</string>
+    <string name="about_title">About Activity</string>
+    <string name="sign_btn_send">Send message!</string>
+    <string name="message_error">message error</string>
+    <string name="sign_from">From:</string>
+</resources>
